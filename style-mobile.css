@@ -10,36 +10,36 @@ body{
     height: 150px;
 }
 .cabecero p{
-    font-size: 30px;
+    font-size: 20px;
     display: block;
     position: relative;
-    left: 45px;
+    left: 0px;
+    right: 10px;
     float: left;
     font-weight: bold;
     top: 40px;
 }
 #Corazón{
-    float: left;
     margin-bottom: 25px;
     position: relative;
-    top: 6px;
+    left: 60px;
     margin-top: 25px;
 }
 #Corazón img{
-    width: 60px;
+    width: 50px;
 }
 .menu{
     position: relative;
-    top: 35%;
-    left: 10%;    
+    top: 60%;
+    left: 1%;    
 }
 .menu li{
     display: inline-block;
-    padding: 0px 15px;
+    padding: 0px 8px;
 }
 .menu a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 15px;
     color: black;
     font-weight: bold;
 }
@@ -102,12 +102,12 @@ footer{
    
 }
 
-
 .calendario div{
     border: solid 6px #402929;
     margin-bottom: 20px;
     margin-top: 15px;
     width: 100%;
+    
 }
 
 .calendario div img{
